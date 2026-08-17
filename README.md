@@ -1,4 +1,4 @@
-# 🧠 Memory-Aware AI Agent
+# 🧠 Memory-Bike AI Agent
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>🧠 A persistent memory-aware AI agent with short-term conversation history, long-term user memory, relevant memory retrieval, and automatic conversation summarization.</b>
+  <b>🧠 A persistent memory-bike AI agent with short-term conversation history, long-term user memory, relevant memory retrieval, and automatic conversation summarization.</b>
 </p>
 
 <p align="center">
