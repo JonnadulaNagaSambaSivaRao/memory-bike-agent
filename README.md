@@ -1,9 +1,8 @@
-````markdown
 # 🧠 Memory-Aware AI Agent
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Agent-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Agent-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/UV-Package_Manager-6E56CF?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -11,6 +10,13 @@
 <p align="center">
   <b>🧠 A persistent memory-aware AI agent with short-term conversation history, long-term user memory, relevant memory retrieval, and automatic conversation summarization.</b>
 </p>
+
+<p align="center">
+  <i>💬 Remembers conversations • 🧠 Stores important memories • 🔎 Retrieves relevant context • 📝 Summarizes long conversations</i>
+</p>
+
+---
+
 
 ---
 
